@@ -1,0 +1,112 @@
+
+Evaluation:
+[Set5 x2]	PSNR: 0.000 SSIM: 0.0000 (Best: 0.000 @epoch 1)
+Total time: 1.45s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 29.008 SSIM: 0.8784 (Best: 29.008 @epoch 1)
+Total time: 1.31s
+
+
+Evaluation:
+
+Evaluation:
+[Set5 x2]	PSNR: 29.584 SSIM: 0.9314 (Best: 29.584 @epoch 1)
+Total time: 1.86s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 38.083 SSIM: 0.9609 (Best: 38.083 @epoch 1)
+Total time: 1.70s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 38.08 SSIM: 0.9609 (Best: 38.083 @epoch 1)
+Total time: 1.80s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 38.08 SSIM: 0.9609 (Best: 38.083 @epoch 1)
+Total time: 1.77s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 38.08 SSIM: 0.9609 (Best: 38.083 @epoch 1)
+Total time: 1.73s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 38.08 SSIM: 0.9609 (Best: 38.083 @epoch 1)
+Total time: 1.74s
+
+
+Evaluation:
+[Set5 x4]	PSNR: 28.29 SSIM: 0.7868 (Best: 28.287 @epoch 1)
+Total time: 1.39s
+
+
+Evaluation:
+[Set5 x4]	PSNR: 32.37 SSIM: 0.8970 (Best: 32.366 @epoch 1)
+Total time: 1.40s
+
+
+Evaluation:
+[Urban100 x4]	PSNR: 26.26 SSIM: 0.7914 (Best: 26.257 @epoch 1)
+Total time: 45.82s
+
+
+Evaluation:
+[Set5 x4]	PSNR: 32.37 SSIM: 0.8970 (Best: 32.366 @epoch 1)
+Total time: 1.41s
+
+
+Evaluation:
+[Set14 x4]	PSNR: 28.75 SSIM: 0.7852 (Best: 28.751 @epoch 1)
+Total time: 3.22s
+
+
+Evaluation:
+[BSD100 x4]	PSNR: 27.65 SSIM: 0.7391 (Best: 27.653 @epoch 1)
+Total time: 12.92s
+
+
+Evaluation:
+[BSD100 x3]	PSNR: 22.52 SSIM: 0.4714 (Best: 22.523 @epoch 1)
+Total time: 9.50s
+
+
+Evaluation:
+[BSD100 x3]	PSNR: 29.17 SSIM: 0.8071 (Best: 29.175 @epoch 1)
+Total time: 8.39s
+
+
+Evaluation:
+[Set5 x3]	PSNR: 34.51 SSIM: 0.9279 (Best: 34.506 @epoch 1)
+Total time: 0.89s
+
+
+Evaluation:
+[Set14 x3]	PSNR: 30.45 SSIM: 0.8441 (Best: 30.446 @epoch 1)
+Total time: 2.32s
+
+
+Evaluation:
+[Urban100 x3]	PSNR: 28.31 SSIM: 0.8561 (Best: 28.309 @epoch 1)
+Total time: 38.83s
+
+
+Evaluation:
+[Set5 x3]	PSNR: 34.51 SSIM: 0.9279 (Best: 34.506 @epoch 1)
+Total time: 0.86s
+
+
+Evaluation:
+[Set5 x3]	PSNR: 34.51 SSIM: 0.9279 (Best: 34.506 @epoch 1)
+Total time: 0.88s
+
+
+Evaluation:
+[Set5 x2]	PSNR: 38.08 SSIM: 0.9609 (Best: 38.083 @epoch 1)
+Total time: 1.10s
+
