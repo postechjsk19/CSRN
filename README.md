@@ -1,3 +1,3 @@
 # CSRN
 
-description comming soon
+description is comming soon
